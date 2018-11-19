@@ -1,0 +1,6 @@
+C:\Users\Gev\Desktop\Program Security\Huffman\Huffman\bin\Debug\Huffman.exe
+C:\Users\Gev\Desktop\Program Security\Huffman\Huffman\bin\Debug\Huffman.pdb
+C:\Users\Gev\Desktop\Program Security\Huffman\Huffman\obj\Debug\Huffman.csprojAssemblyReference.cache
+C:\Users\Gev\Desktop\Program Security\Huffman\Huffman\obj\Debug\Huffman.csproj.CoreCompileInputs.cache
+C:\Users\Gev\Desktop\Program Security\Huffman\Huffman\obj\Debug\Huffman.exe
+C:\Users\Gev\Desktop\Program Security\Huffman\Huffman\obj\Debug\Huffman.pdb
